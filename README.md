@@ -1,4 +1,4 @@
-Analyzing the novel coronavirus data for India.
+Analyzing the novel coronavirus dataset for India.
 
 Dataset: https://ourworldindata.org/coronavirus/country/india?country=IND~
 
